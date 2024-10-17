@@ -1,7 +1,13 @@
 {
   "dependencies": {
+    "@google/generative-ai": "^0.21.0",
     "openai": "^4.67.3",
     "zod": "^3.23.8"
   },
-  "type": "module"
+  "scripts": {
+    "start": "node --env-file=.env index.js",
+    "openai": "node --env-file=.env openai.js",
+    "gemini": "node --env-file=.env gemini.js"
+
+  }
 }
