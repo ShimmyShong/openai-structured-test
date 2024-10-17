@@ -12,7 +12,7 @@ const schema = {
       customerName: {
         type: SchemaType.STRING,
         description: `The full name of the customer booking the service. This can include additional context if part of a sentence, such as 'with technician name'.
-Example: 'Jeremy with Jenny' or 'Asha appointment with Kim'.`
+Example: 'Jeremy with Jenny' or 'Asha appointment with Kim'. **LEAVE EMPTY IF UNKNOWN**`
       },
       technicianName: {
         type: SchemaType.STRING,
@@ -54,6 +54,7 @@ const model = genAI.getGenerativeModel({
 
 const geminiInit = async (prompt) => {
   try {
+    // throw err
     const result = await model.generateContent(`It is currently ${new Date().toISOString()} and the salon is open from 8am - 7pm Monday to Saturday.Please extract the customer name, technician name, service description, appointment status, and start time for the following nail salon meeting information: ${prompt}`);
     console.log(JSON.parse(result.response.text())[0])
     console.log(`tokens: ${result.response.usageMetadata.promptTokenCount}`)

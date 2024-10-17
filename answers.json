@@ -1,242 +1,250 @@
 [
   {
-    "customerName": "Anna",
-    "description": "gel manicure",
+    "customerName": "",
+    "description": "pedicure",
     "isAppointment": true,
-    "startDatetime": "2024-10-25T13:30",
+    "startDatetime": "2024-10-18T10:30",
+    "technicianName": "Jenny",
+    "model": "gemini-1.5-flash"
+  },
+  {
+    "customerName": "",
+    "description": "Manicure",
+    "isAppointment": true,
+    "startDatetime": "2024-10-22T11:00",
+    "technicianName": "anyone who's free",
+    "model": "gemini-1.5-flash"
+  },
+  {
+    "customerName": "",
+    "description": "gel set",
+    "isAppointment": false,
+    "startDatetime": "2024-10-17T14:00",
+    "technicianName": "",
+    "model": "gemini-1.5-flash"
+  },
+  {
+    "customerName": "",
+    "description": "gel set",
+    "isAppointment": true,
+    "startDatetime": "2024-10-24T11:00",
+    "technicianName": "Jenny",
+    "model": "gemini-1.5-flash"
+  },
+  {
+    "customerName": "me and my friends",
+    "description": "three pedicures",
+    "isAppointment": true,
+    "startDatetime": "2024-10-18T15:00",
+    "technicianName": "",
+    "model": "gemini-1.5-flash"
+  },
+  {
+    "customerName": "",
+    "description": "quick manicure",
+    "isAppointment": true,
+    "startDatetime": "2024-10-18T11:00",
+    "technicianName": "",
+    "model": "gemini-1.5-flash"
+  },
+  {
+    "customerName": "",
+    "description": "four manicures",
+    "isAppointment": true,
+    "startDatetime": "2024-10-23T14:00",
+    "technicianName": "any tech is fine",
+    "model": "gemini-1.5-flash"
+  },
+  {
+    "customerName": "Book me and my mom",
+    "description": "mani-pedi",
+    "isAppointment": true,
+    "startDatetime": "2024-10-26T10:00",
+    "technicianName": "",
+    "model": "gemini-1.5-flash"
+  },
+  {
+    "customerName": "",
+    "description": "pedicure",
+    "isAppointment": true,
+    "startDatetime": "2024-10-17T13:00",
+    "technicianName": "",
+    "model": "gemini-1.5-flash"
+  },
+  {
+    "customerName": "",
+    "description": "three pedicures and one gel manicure",
+    "isAppointment": true,
+    "startDatetime": "2024-10-22T12:00",
+    "technicianName": "",
+    "model": "gemini-1.5-flash"
+  },
+  {
+    "customerName": "",
+    "description": "Pedicure",
+    "isAppointment": true,
+    "startDatetime": "2024-10-18T14:00",
+    "technicianName": "Danny",
+    "model": "gemini-1.5-flash"
+  },
+  {
+    "customerName": "Book me",
+    "description": "two pedicures",
+    "isAppointment": true,
+    "startDatetime": "2024-10-18T12:00",
+    "technicianName": "anyone's fine",
+    "model": "gemini-1.5-flash"
+  },
+  {
+    "customerName": "",
+    "description": "pedi",
+    "isAppointment": true,
+    "startDatetime": "2024-10-23T17:00",
     "technicianName": "Alex",
     "model": "gemini-1.5-flash"
   },
   {
-    "customerName": "Anna",
+    "customerName": "",
     "description": "gel manicure",
     "isAppointment": true,
-    "startDatetime": "2024-10-25T13:30",
-    "technicianName": "Alex",
+    "startDatetime": "2024-10-21T14:30",
+    "technicianName": "Danny",
     "model": "gemini-1.5-flash"
   },
   {
-    "customerName": "Anna",
-    "description": "gel manicure",
+    "customerName": "",
+    "description": "three pedicures",
     "isAppointment": true,
-    "startDatetime": "2024-10-25T13:30",
-    "technicianName": "Alex",
+    "startDatetime": "2024-10-27T13:00",
+    "technicianName": "any technician",
     "model": "gemini-1.5-flash"
   },
   {
-    "customerName": "Anna",
-    "description": "gel manicure",
+    "customerName": "",
+    "technicianName": "any",
     "isAppointment": true,
-    "startDatetime": "2024-10-25T13:30",
-    "technicianName": "Alex",
-    "model": "gemini-1.5-flash"
-  },
-  {
-    "customerName": "Anna",
-    "description": "gel manicure",
-    "isAppointment": true,
-    "startDatetime": "2024-10-25T13:30",
-    "technicianName": "Alex",
-    "model": "gemini-1.5-flash"
-  },
-  {
-    "customerName": "Anna",
-    "description": "gel manicure",
-    "isAppointment": true,
-    "startDatetime": "2024-10-25T13:30",
-    "technicianName": "Alex",
-    "model": "gemini-1.5-flash"
-  },
-  {
-    "customerName": "Anna",
-    "description": "gel manicure",
-    "isAppointment": true,
-    "startDatetime": "2024-10-25T13:30",
-    "technicianName": "Alex",
-    "model": "gemini-1.5-flash"
-  },
-  {
-    "customerName": "Anna",
-    "description": "gel manicure",
-    "isAppointment": true,
-    "startDatetime": "2024-10-25T13:30",
-    "technicianName": "Alex",
-    "model": "gemini-1.5-flash"
-  },
-  {
-    "customerName": "Anna",
-    "description": "gel manicure",
-    "isAppointment": true,
-    "startDatetime": "2024-10-25T13:30",
-    "technicianName": "Alex",
-    "model": "gemini-1.5-flash"
-  },
-  {
-    "customerName": "Anna",
-    "description": "gel manicure",
-    "isAppointment": true,
-    "startDatetime": "2024-10-25T13:30",
-    "technicianName": "Alex",
-    "model": "gemini-1.5-flash"
-  },
-  {
-    "customerName": "Anna",
-    "description": "gel manicure",
-    "isAppointment": true,
-    "startDatetime": "2024-10-25T13:30",
-    "technicianName": "Alex",
-    "model": "gemini-1.5-flash"
-  },
-  {
-    "customerName": "Anna",
-    "description": "gel manicure",
-    "isAppointment": true,
-    "startDatetime": "2024-10-25T13:30",
-    "technicianName": "Alex",
-    "model": "gemini-1.5-flash"
-  },
-  {
-    "customerName": "Anna",
-    "description": "gel manicure",
-    "isAppointment": true,
-    "startDatetime": "2024-10-25T13:30",
-    "technicianName": "Alex",
-    "model": "gemini-1.5-flash"
-  },
-  {
-    "customerName": "Anna",
-    "description": "gel manicure",
-    "isAppointment": true,
-    "startDatetime": "2024-10-25T13:30",
-    "technicianName": "Alex",
-    "model": "gemini-1.5-flash"
-  },
-  {
-    "customerName": "Anna",
-    "description": "gel manicure",
-    "isAppointment": true,
-    "startDatetime": "2024-10-25T13:30",
-    "technicianName": "Alex",
-    "model": "gemini-1.5-flash"
-  },
-  {
-    "customerName": "Anna",
-    "technicianName": "alex",
-    "isAppointment": true,
-    "description": "gel manicure",
-    "startDatetime": "2024-10-18T13:30",
+    "description": "Nail appointment for five people.",
+    "startDatetime": "2024-10-24T14:00",
     "model": "gpt-4o-mini"
   },
   {
-    "customerName": "Anna",
-    "technicianName": "alex",
+    "customerName": "",
+    "technicianName": "any",
     "isAppointment": true,
-    "description": "gel manicure",
-    "startDatetime": "2024-10-25T13:30",
+    "description": "mani-pedi for two",
+    "startDatetime": "2024-10-18T17:00",
     "model": "gpt-4o-mini"
   },
   {
-    "customerName": "Anna",
-    "description": "gel manicure",
+    "customerName": "",
+    "technicianName": "jenny",
     "isAppointment": true,
-    "startDatetime": "2024-10-25T13:30",
-    "technicianName": "Alex",
-    "model": "gemini-1.5-flash"
-  },
-  {
-    "customerName": "Anna",
-    "description": "gel manicure",
-    "isAppointment": true,
-    "startDatetime": "2024-10-25T13:30",
-    "technicianName": "Alex",
-    "model": "gemini-1.5-flash"
-  },
-  {
-    "customerName": "Anna",
-    "technicianName": "alex",
-    "isAppointment": true,
-    "description": "gel manicure",
-    "startDatetime": "2024-10-25T13:30",
+    "description": "manicure",
+    "startDatetime": "2024-10-21T10:00",
     "model": "gpt-4o-mini"
   },
   {
-    "customerName": "Anna",
-    "technicianName": "alex",
+    "customerName": "",
+    "technicianName": "any",
     "isAppointment": true,
-    "description": "gel manicure",
-    "startDatetime": "2024-10-25T13:30",
+    "description": "Four pedicures",
+    "startDatetime": "2024-10-18T12:00",
     "model": "gpt-4o-mini"
   },
   {
-    "customerName": "Anna",
-    "technicianName": "alex",
-    "isAppointment": true,
-    "description": "gel manicure",
-    "startDatetime": "2024-10-25T13:30",
+    "customerName": "",
+    "technicianName": "any",
+    "isAppointment": false,
+    "description": "full set",
+    "startDatetime": "2024-10-20T14:00",
     "model": "gpt-4o-mini"
   },
   {
-    "customerName": "Anna",
+    "customerName": "",
     "technicianName": "alex",
     "isAppointment": true,
-    "description": "gel manicure",
-    "startDatetime": "2024-10-25T13:30",
+    "description": "full set",
+    "startDatetime": "2024-10-18T10:00",
     "model": "gpt-4o-mini"
   },
   {
-    "customerName": "Anna",
-    "technicianName": "alex",
+    "customerName": "",
+    "technicianName": "danny",
     "isAppointment": true,
-    "description": "gel manicure",
-    "startDatetime": "2024-10-25T13:30",
+    "description": "",
+    "startDatetime": "2024-10-25T10:00",
     "model": "gpt-4o-mini"
   },
   {
-    "customerName": "Anna",
-    "technicianName": "alex",
+    "customerName": "",
+    "technicianName": "jenny",
     "isAppointment": true,
-    "description": "gel manicure",
-    "startDatetime": "2024-10-25T13:30",
+    "description": "pedi and manicure",
+    "startDatetime": "2024-10-21T09:00",
     "model": "gpt-4o-mini"
   },
   {
-    "customerName": "Anna",
-    "technicianName": "alex",
+    "customerName": "",
+    "technicianName": "danny",
     "isAppointment": true,
-    "description": "gel manicure",
-    "startDatetime": "2024-10-25T13:30",
+    "description": "pedicure",
+    "startDatetime": "2024-10-24T16:00",
     "model": "gpt-4o-mini"
   },
   {
-    "customerName": "Anna",
-    "technicianName": "alex",
+    "customerName": "",
+    "technicianName": "any",
     "isAppointment": true,
-    "description": "gel manicure",
-    "startDatetime": "2024-10-25T13:30",
+    "description": "5 manicures",
+    "startDatetime": "2024-10-24T15:00",
     "model": "gpt-4o-mini"
   },
   {
-    "customerName": "Anna",
-    "technicianName": "alex",
+    "customerName": "",
+    "technicianName": "any",
     "isAppointment": true,
     "description": "gel manicure",
-    "startDatetime": "2024-10-25T13:30",
+    "startDatetime": "2024-10-18T10:00",
     "model": "gpt-4o-mini"
   },
   {
-    "customerName": "Anna",
-    "technicianName": "alex",
+    "customerName": "",
+    "technicianName": "any",
     "isAppointment": true,
-    "description": "gel manicure",
-    "startDatetime": "2024-10-25T13:30",
+    "description": "two manicures and a pedicure",
+    "startDatetime": "2024-10-22T11:30",
     "model": "gpt-4o-mini"
   },
   {
-    "customerName": "Anna",
-    "technicianName": "alex",
+    "customerName": "unknown",
+    "technicianName": "any",
+    "isAppointment": false,
+    "description": "Two pedicures for customer and sister",
+    "startDatetime": "2024-10-20T11:00",
+    "model": "gpt-4o-mini"
+  },
+  {
+    "customerName": "",
+    "technicianName": "any",
     "isAppointment": true,
-    "description": "gel manicure",
-    "startDatetime": "2024-10-25T13:30",
+    "description": "Pedicure for two",
+    "startDatetime": "2024-10-19T09:00",
+    "model": "gpt-4o-mini"
+  },
+  {
+    "customerName": "",
+    "technicianName": "any",
+    "isAppointment": true,
+    "description": "gel manicures",
+    "startDatetime": "2024-10-24T12:00",
+    "model": "gpt-4o-mini"
+  },
+  {
+    "customerName": "",
+    "technicianName": "any",
+    "isAppointment": true,
+    "description": "gel set",
+    "startDatetime": "2024-10-19T15:30",
     "model": "gpt-4o-mini"
   }
 ]
